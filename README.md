@@ -1,7 +1,7 @@
 # mars_challenge
 Module 11 challenge web-scraping
-
-I finished the parts indicated below to make sure I have the minimum point
+Using the rubric:
+I finished the parts indicated below to make sure I have the minimum point required to get credit for this assignment
 Requirements
 Part 1: Scrape Titles and Preview Text from Mars News (40 points)
 •	Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). (10 points)
