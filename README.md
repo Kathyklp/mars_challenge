@@ -1,5 +1,6 @@
 # mars_challenge
 Module 11 challenge web-scraping
+please use the Mars_part1_final.ipynb file 
 Using the rubric:
 I finished the parts indicated below to make sure I have the minimum point required to get credit for this assignment
 Requirements
